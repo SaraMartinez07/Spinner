@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="title_lenguaje">Programin Languaje</string>
+    <string name="caracteristicas_lenguaje">Language Feature</string>
+</resources>
